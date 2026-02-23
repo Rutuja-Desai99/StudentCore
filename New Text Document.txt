@@ -1,0 +1,9 @@
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+
+migrations
+
+nugetpackage manger - pakage manager console -
+
+Add-Migration "Initial Migration"
